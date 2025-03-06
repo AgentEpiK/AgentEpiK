@@ -1,7 +1,7 @@
 
-- 👀 I’m interested in Chemistry, Ethics and Mathematics
+- 👀 I’m interested in Trigonometry, Physics, and AI
   
-- 💞️ I’m looking to create a physics engine to be used by academic, corporate and military interests.
+- 💞️ I’m looking to create a scientifically accurate physics engine for AI simulacrum research
   
 
 <!---
