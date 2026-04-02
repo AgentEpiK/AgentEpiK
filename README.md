@@ -1,7 +1,7 @@
 
-- 👀 I’m interested in Trigonometry, Physics, and AI
+- 👀 I'm looking to build scientifically accurate World Models for training AI Robotics
   
-- 💞️ I’m looking to create a scientifically accurate physics engine for AI simulacrum research
+- 💞️ I’m interested in Mathematics, Physics, and AI
   
 
 <!---
